@@ -7,3 +7,4 @@ nnn = int(str(n) + str(n) + str(n))
 sum = n + nn + nnn
 print(sum)
 
+
